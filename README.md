@@ -1,6 +1,8 @@
 # Twitter-Sentiment-Naive-Bayes
 Twitter Sentiment Analysis using Naive Bayes
-You can follow the explanation for my code on my medium:
+
+You can follow the explanation for my code on my medium: https://medium.com/@koshut.takatsuji/twitter-sentiment-analysis-with-full-code-and-explanation-naive-bayes-a380b38f036b
+
 Also check out my personal site: koshu.me
 
 This program can be followed by going through part1 through part6 sequentially. 
