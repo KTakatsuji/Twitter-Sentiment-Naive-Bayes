@@ -1,0 +1,10 @@
+import pandas as pd
+
+
+
+test = 'i am really happy birthday okay bob'
+
+#split all the words in my text
+test_words = test.str.split()
+
+
