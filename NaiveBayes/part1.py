@@ -11,10 +11,10 @@ import pandas as pd
 
 #We authenticate ourselves as having a twitter app
 #Variables that contains the user credentials to access Twitter API 
-access_token = "3360984082-GssK5SAT6d7bbVX091UBYECJi4ILi9TmqahxFDR"
-access_secret = "2uqKJedaZ3y1L3vxShb3j0KHGHlvZ4GVo3CZqWhYQnIEg"
-consumer_key = "xtd97YMWEKgxuIquYBkXv9TYZ"
-consumer_secret = "1C4Ixhwn774IBwpwncgtMF9eP79MwATELhiHRQgjjUmA22pAiX"
+access_token = "3ads;fkajsdfpoaisdjf;alksdjf"
+access_secret = "2uasdl;fajsd;flkjasd;flkajsdf;adfasdfEg"
+consumer_key = "xasdf98uoif;wqjer;kandsf"
+consumer_secret = "1asd9fp8uijl;qkwef;alksd;iX"
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
